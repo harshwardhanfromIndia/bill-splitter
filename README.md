@@ -22,4 +22,4 @@ python bill_splitter.py
 - Organising code cleanly with `if __name__ == "__main__"`
 
 ## Author
-Harshwardhan Kumar Paswan — 1st Year CS Student
+Harshwardhan Kumar Paswan
