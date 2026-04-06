@@ -45,4 +45,4 @@ python bill_splitter.py
 
 ## Author
 
-Harshwardhan Kumar Paswan — 1st Year CS Student
+Harshwardhan Kumar Paswan
