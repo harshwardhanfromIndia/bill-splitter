@@ -14,7 +14,7 @@ python bill_splitter.py
 ```
 
 ## Sample Output
-![Bill Splitter Output]<img width="700" height="347" alt="Screenshot 2026-04-05 at 19 51 45" src="https://github.com/user-attachments/assets/5fc69608-90ed-49c0-a7c5-c3acfdba178b" />
+<img width="700" height="347" alt="Screenshot 2026-04-05 at 19 51 45" src="https://github.com/user-attachments/assets/5fc69608-90ed-49c0-a7c5-c3acfdba178b" />
 )
 ## What I Learned
 - Python functions and docstrings
